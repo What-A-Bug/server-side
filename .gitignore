@@ -1,0 +1,6 @@
+logs/
+common/
+conf/
+
+*.log
+*class
